@@ -17810,7 +17810,7 @@
 	(footprint "Connector:FanPinHeader_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "7310f43d-e233-4e1a-9cef-f436ad557256")
-		(at 116.3 61.2)
+		(at 116.18 62.2)
 		(descr "4-pin CPU fan Through hole pin header, e.g. for Wieson part number 2366C888-007 Molex 47053-1000, Foxconn HF27040-M1, Tyco 1470947-1 or equivalent, see http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf")
 		(tags "pin header 4-pin CPU fan")
 		(property "Reference" "J3"
@@ -18397,7 +18397,7 @@
 		(uuid "7fb601a7-8f13-4d0f-afb5-4f37e5f6c54a")
 		(at 170.06 115.95 90)
 		(property "Reference" "J2"
-			(at -8.26 -5.71721 270)
+			(at -8.26 -5.71721 -90)
 			(layer "F.SilkS")
 			(uuid "124f45be-db05-4d0c-8384-bf7312793fa2")
 			(effects
@@ -18408,7 +18408,7 @@
 			)
 		)
 		(property "Value" "DC-005"
-			(at -3.1848 7.6271 270)
+			(at -3.1848 7.6271 -90)
 			(layer "F.Fab")
 			(uuid "841976e8-7283-49da-9e5e-cd310d14356b")
 			(effects
