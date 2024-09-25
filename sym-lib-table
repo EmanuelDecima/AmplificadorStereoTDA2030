@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SJ1-3523N")(type "KiCad")(uri "${KIPRJMOD}/Lib/FootPrints-Symbols/SJ1-3523N/SJ1-3523N.kicad_sym")(options "")(descr ""))
+  (lib (name "DC-005")(type "KiCad")(uri "${KIPRJMOD}/Lib/FootPrints-Symbols/DC-005 - Connector Alimentacion/DC-005.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DC-005 - Connector Alimentacion")(type "KiCad")(uri "${KIPRJMOD}/Lib/FootPrints-Symbols/DC-005 - Connector Alimentacion")(options "")(descr ""))
+  (lib (name "Potenciometro")(type "KiCad")(uri "${KIPRJMOD}/Lib/FootPrints-Symbols/Potenciometro")(options "")(descr ""))
+  (lib (name "SJ1-3523N")(type "KiCad")(uri "${KIPRJMOD}/Lib/FootPrints-Symbols/SJ1-3523N")(options "")(descr ""))
+)

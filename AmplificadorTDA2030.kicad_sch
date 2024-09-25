@@ -4358,7 +4358,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_2x03_P2.00mm_Vertical"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK163_Dual_Horizontal"
 			(at 118.745 86.36 0)
 			(effects
 				(font
@@ -4714,7 +4714,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Footprints y Simbolos:NINIGI_DC-005"
+		(property "Footprint" "DC-005 - Connector Alimentacion:NINIGI_DC-005"
 			(at 91.44 38.1 0)
 			(effects
 				(font

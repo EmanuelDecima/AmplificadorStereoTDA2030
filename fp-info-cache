@@ -1,4 +1,4 @@
-23379321002887258
+23339754326627602
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53787,6 +53787,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DC-005 - Connector Alimentacion
+NINIGI_DC-005
+
+
+0
+3
+3
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -55985,34 +55992,6 @@ emi filter
 0
 5
 5
-Footprints y Simbolos
-DIP254P762X469-14
-
-
-0
-14
-14
-Footprints y Simbolos
-DIP254P762X469-1496
-
-
-0
-14
-14
-Footprints y Simbolos
-NINIGI_DC-005
-
-
-0
-3
-3
-Footprints y Simbolos
-Potenciometro
-Terminal Block Philmore , 3 pins, pitch 5mm, size 15x10.2mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.philmore-datak.com/mc/Page%20197.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Philmore
-THT Terminal Block Philmore  pitch 5mm size 15x10.2mm^2 drill 1.2mm pad 2.4mm
-0
-3
-3
 Fuse
 FuseHolder_Blade_ATO_Littelfuse_FLR_178.6165
 Littelfuse fuse holder for ATO/FKS blade fuses, 80V, vertical, 20 x 6mm, PCB thickness up to 1.5mm, http://www.littelfuse.com/~/media/commercial-vehicle/datasheets/automotive-fuse-holders/ato/littelfuse-fuse-holder-ato-flr-pcb-datasheet.pdf
@@ -63664,153 +63643,6 @@ Yellow 5381 Series LED
 0
 2
 2
-Logo_Image
-ED5mm
-
-
-0
-0
-0
-Logo_Image
-ED10mm
-
-
-0
-0
-0
-Logo_Image
-Iso1
-
-
-0
-0
-0
-Logo_Image
-Iso1-10mm
-
-
-0
-0
-0
-Logo_Image
-Iso2
-
-
-0
-0
-0
-Logo_Image
-Iso2-10mm
-
-
-0
-0
-0
-Logo_Image
-Iso2-15mm
-
-
-0
-0
-0
-Logo_Image
-Iso2-20mm
-
-
-0
-0
-0
-Logo_Image
-Logo1_Decima
-
-
-0
-0
-0
-Logo_Image
-Logo1_Decima 5mm
-
-
-0
-0
-0
-Logo_Image
-Logo1_Decima 10mm
-
-
-0
-0
-0
-Logo_Image
-Logo1_Decima 15mm
-
-
-0
-0
-0
-Logo_Image
-Logo1_Decima 30mm
-
-
-0
-0
-0
-Logo_Image
-Logo1_Decima 50mm
-
-
-0
-0
-0
-Logo_Image
-Logo2_Decima
-
-
-0
-0
-0
-Logo_Image
-Logo2_Decima 5mm
-
-
-0
-0
-0
-Logo_Image
-logoUTN
-
-
-0
-0
-0
-Logo_Image
-logoUTN2_4mm
-
-
-0
-0
-0
-Logo_Image
-logoUTN2_negativo_4mm
-
-
-0
-0
-0
-Logo_Image
-logoUTNnegativo3mm
-
-
-0
-0
-0
-MC1496BPG
-DIP254P762X469-14
-
-
-0
-14
-14
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -83460,6 +83292,13 @@ TO-264-5 Vertical RM 3.81mm
 0
 5
 5
+Potenciometro
+Potenciometro
+Terminal Block Philmore , 3 pins, pitch 5mm, size 15x10.2mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.philmore-datak.com/mc/Page%20197.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Philmore
+THT Terminal Block Philmore  pitch 5mm size 15x10.2mm^2 drill 1.2mm pad 2.4mm
+0
+3
+3
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
