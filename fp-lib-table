@@ -3,4 +3,5 @@
   (lib (name "DC-005 - Connector Alimentacion")(type "KiCad")(uri "${KIPRJMOD}/Lib/FootPrints-Symbols/DC-005 - Connector Alimentacion")(options "")(descr ""))
   (lib (name "Potenciometro")(type "KiCad")(uri "${KIPRJMOD}/Lib/FootPrints-Symbols/Potenciometro")(options "")(descr ""))
   (lib (name "SJ1-3523N")(type "KiCad")(uri "${KIPRJMOD}/Lib/FootPrints-Symbols/SJ1-3523N")(options "")(descr ""))
+  (lib (name "Logo_Image")(type "KiCad")(uri "${KIPRJMOD}/Lib/Logo_Image")(options "")(descr ""))
 )
