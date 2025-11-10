@@ -14,7 +14,7 @@ Este proyecto es un **amplificador estéreo basado en el integrado TDA2030**, di
 
 ## 🖼️ Esquema y PCB  
 *(Insertar imágenes aquí para visualización rápida)*  
-![Esquemático](Schematic_KiCAD.pdf)  
+![Esquemático](Schematic.jpg)  
 ![Vista PCB – frontal](Front_PCB.png)  
 ![Vista PCB – trasera](Back_PCB.png)
 
